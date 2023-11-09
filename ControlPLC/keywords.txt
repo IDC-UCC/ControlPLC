@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For ControlPLC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OutputRelay	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Active	KEYWORD2
+NotActive	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Activo	LITERAL1
+NoActivo	LITERAL1
+
+
+
+
